@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-hm-4/static/css/main.4ba4107b.css",
+    "main.js": "/react-hm-4/static/js/main.31c41e93.js",
+    "index.html": "/react-hm-4/index.html",
+    "main.4ba4107b.css.map": "/react-hm-4/static/css/main.4ba4107b.css.map",
+    "main.31c41e93.js.map": "/react-hm-4/static/js/main.31c41e93.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ba4107b.css",
+    "static/js/main.31c41e93.js"
+  ]
+}
