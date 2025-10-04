@@ -1,0 +1,49 @@
+body {
+  font-family: sans-serif;
+  line-height: 1.5;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+.statistics {
+  background-color: #f3f3f3;
+  padding: 60px;
+}
+
+.statistics .title {
+  font-size: 24px;
+  margin-bottom: 16px;
+}
+
+.stat-list {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.stat-list .item {
+  background-color: red;
+  color: white;
+  padding: 40px;
+  text-align: center;
+}
+
+.box{
+    display: flex;
+  flex-direction: column;
+}
+

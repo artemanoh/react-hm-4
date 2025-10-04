@@ -1,0 +1,7 @@
+.status {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+}
+.status.online { background-color: green; }
+.status.offline { background-color: red; }
