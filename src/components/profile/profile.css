@@ -1,0 +1,21 @@
+.profileBox {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.profileImage {
+    width: 200px;
+}
+
+.profileBoxes {
+    border-radius: 30% 30% 10% 10%;
+    background-color: rgb(198, 196, 196);
+    width: 300px;
+}
+
+.profileSquare {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
